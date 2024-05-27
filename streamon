@@ -590,19 +590,19 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/d
  
 ```````` MOVIES ````````
 #EXTINF:-1 xui-id="94" tvg-id="" tvg-name="HBO" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="MOVIES",HBO
-http://link.zozotv.xyz:8080/zozo/1234/1485
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMWgRU0fA_lUnNVtFfKchSs
  
 #EXTINF:-1 xui-id="95" tvg-id="" tvg-name="HBO Family" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="MOVIES",HBO Family
-http://link.zozotv.xyz:8080/zozo/1234/1487
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGlWEyMOAAo79nSRn6DcNKM
  
 #EXTINF:-1 xui-id="96" tvg-id="" tvg-name="HBO Hits" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="MOVIES",HBO Hits
-http://link.zozotv.xyz:8080/zozo/1234/1486
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPD8Kg7knoHj12XIsIFdueY
  
 #EXTINF:-1 xui-id="97" tvg-id="" tvg-name="HBO Signature" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="MOVIES",HBO Signature
-http://link.zozotv.xyz:8080/zozo/1234/1488
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRO31yweI9drEyVsjjMrUtUk
  
 #EXTINF:-1 xui-id="98" tvg-id="" tvg-name="Cinemax by HBO" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="MOVIES",Cinemax
-http://link.zozotv.xyz:8080/zozo/1234/1494
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLQ_ICSAHTZKskhEw2HVjGM
  
 #EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://hometv.pw/logo/movies/galaxy.png" group-title="MOVIES", GALAXY 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -738,7 +738,7 @@ https://testfunctionlive.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-A
 https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg" group-title="MOVIES",BOO
-http://link.zozotv.xyz:8080/zozo/1234/1482
+http://abcnew.site:8880/3ca7043n02/dsf23e423/1697
  
 #EXTINF:-1 tvg-id="SkyCinemaSciFiHorrorHD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-SCIFI-HORROR-June-2020.png" group-title="MOVIES", SKY CINEMA SCIFI-HORROR 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1071,8 +1071,10 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
  
 ```````` SPORTS  🇮🇩 ````````
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="SPORTS  🇮🇩",MOJI (SPORT)
-https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="SPORTS  🇮🇩", MOJI (SPORT)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1258,45 +1260,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
  
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORTS" , BEIN SPORTS 1 🇲🇾
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
- 
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="SPORTS" , BEIN SPORTS 2 🇲🇾
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
- 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="SPORTS" , BEIN SPORTS 3 🇲🇾
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
- 
-#EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="SPORTS" , BEIN SPORTS 4 🇲🇾
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
- 
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
-http://link.zozotv.xyz:8080/zozo/1234/1589
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRF9NW6y3LHJg0bvRMSI8PJg
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
-http://link.zozotv.xyz:8080/zozo/1234/1590
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRNKcHPZsV2XFuO_GI63XpIY
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
-http://link.zozotv.xyz:8080/zozo/1234/1593
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAUPXsPa1DKoM94s_oMH-W0
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
-http://link.zozotv.xyz:8080/zozo/1234/1594
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAwMvSOgXg7qj24VUvEp2v0
  
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="SPORTS", ARENA SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR1.m3u8
