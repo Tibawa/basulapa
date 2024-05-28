@@ -636,13 +636,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="BSTV | Movies",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
  
-#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://hometv.pw/logo/Movies/galaxy.png" group-title="BSTV | Movies", GALAXY 
+#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="BSTV | Movies", GALAXY 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
  
-#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://hometv.pw/logo/Movies/galaxy_premium.png" group-title="BSTV | Movies", GALAXY PREMIUM 
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://i.ytimg.com/vi/53YZOZFbszE/maxresdefault.jpg" group-title="BSTV | Movies", GALAXY PREMIUM 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1544,7 +1544,7 @@ http://mohdtv.com:8880/voby1993/8523580cde0057f93644/60572
 #EXTINF:-1 xui-id="13355" tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lEuwv7O-WkFLzgW0qjwUncBI59UXYOIB8vV9EjGEvYoA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Tennis/Cricket",Sky Sports Cricket 🇬🇧
 http://tkosportz.live:25461/edaniels2023/6066225419/7669
  
-#EXTINF:-1 tvg-id="" tvg-name="IN146:STAR BSTV | Sports SELECT 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wejp5b1643386884.png" group-title="BSTV | Tennis/Cricket",STAR BSTV | Sports SELECT 2
+#EXTINF:-1 tvg-id="" tvg-name="IN146:STAR Sports SELECT 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wejp5b1643386884.png" group-title="BSTV | Tennis/Cricket",STAR Sports SELECT 2
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/55269
  
  
