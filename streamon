@@ -590,19 +590,19 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/d
  
 ```````` BSTV | Movies ````````
 #EXTINF:-1 xui-id="94" tvg-id="" tvg-name="HBO" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="BSTV | Movies",HBO
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMWgRU0fA_lUnNVtFfKchSs
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/197972
  
 #EXTINF:-1 xui-id="95" tvg-id="" tvg-name="HBO Family" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="BSTV | Movies",HBO Family
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGlWEyMOAAo79nSRn6DcNKM
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/197055
  
 #EXTINF:-1 xui-id="96" tvg-id="" tvg-name="HBO Hits" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="BSTV | Movies",HBO Hits
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPD8Kg7knoHj12XIsIFdueY
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/196480
  
 #EXTINF:-1 xui-id="97" tvg-id="" tvg-name="HBO Signature" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="BSTV | Movies",HBO Signature
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRO31yweI9drEyVsjjMrUtUk
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/221948
  
 #EXTINF:-1 xui-id="98" tvg-id="" tvg-name="Cinemax by HBO" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="BSTV | Movies",Cinemax
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLQ_ICSAHTZKskhEw2HVjGM
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/197964
  
 #EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://hometv.pw/logo/BSTV | Movies/galaxy.png" group-title="BSTV | Movies", GALAXY 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1071,10 +1071,8 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
  
 ```````` BSTV | Sports ID ````````
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="BSTV | Sports ID", MOJI (SPORT)
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
-https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
+#EXTINF:-1 group-title="BSTV | Sports ID" group-logo="https://i.postimg.cc/3w89xkfL/20240210-162216.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI 
+https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
