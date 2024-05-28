@@ -553,7 +553,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
  
-#EXTINF:-1 tvg-id="CINEMACHI Kids HD - [Channel 403].id" tvg-name="CINEMACHI Kids" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-Kids.png" group-title="BSTV | Kids", CINEMACHI Kids 🇬🇧
+#EXTINF:-1 tvg-id="CINEMACHI Kids HD - [Channel 403].id" tvg-name="CINEMACHI Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="BSTV | Kids", CINEMACHI Kids 🇬🇧
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1133,7 +1133,7 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://hometv.pw/logo/Sports/soccer_channel.jpg" group-title="BSTV | Sports ID",Soccer Channel-HD
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="BSTV | Sports ID",Soccer Channel-HD
 https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1635,16 +1635,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94c
 #EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Nick Jr. Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", Pluto TV BSTV | Kids
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", Pluto TV Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",LEGO BSTV | Kids Channel
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",LEGO Kids Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Pinkfong Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",BSTV | Kids Movie Club
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Kids Movie Club
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Kartoon Channel
