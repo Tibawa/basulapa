@@ -1271,6 +1271,15 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAUPXsPa1DKoM94s_oMH-W
  
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAwMvSOgXg7qj24VUvEp2v0
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="BSTV | Sports",SONY TEN 1 HD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115751
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="BSTV | Sports",SONY TEN 2 HD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115753
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="BSTV | Sports",SONY TEN 3 HD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115755
  
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="BSTV | Sports", ARENA SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR1.m3u8
@@ -1483,7 +1492,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
  
 #EXTINF:-1 xui-id="13356" tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | F1/MotoGP",Sky Sports F1
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzROhK2Z0a9gPwNS0aFIYLDEA
+http://tkosportz.live:25461/edaniels2023/6066225419/7667
  
 #EXTINF:-1 group-title="BSTV | F1/MotoGP" tvg-id="TNTSports2.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT SPORTS 2 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1519,7 +1528,7 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/60572
  
 #EXTINF:-1 xui-id="13355" tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lEuwv7O-WkFLzgW0qjwUncBI59UXYOIB8vV9EjGEvYoA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Tennis/Cricket",Sky Sports Cricket 🇬🇧
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAAaoRrrJR8XhyI8v-hlu00
+http://tkosportz.live:25461/edaniels2023/6066225419/7669
  
 #EXTINF:-1 tvg-id="" tvg-name="IN146:STAR BSTV | Sports SELECT 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wejp5b1643386884.png" group-title="BSTV | Tennis/Cricket",STAR BSTV | Sports SELECT 2
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/55269
@@ -1538,7 +1547,7 @@ http://mohdtv.com:8880/voby1993/8523580cde0057f93644/55269
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/30951
  
 #EXTINF:-1 xui-id="13358" tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDF3C0A6Zxx37_DKSFEXFnjHbd2pKhjqPD7XaOEy97=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Golf/Fight",Sky Sports Golf 🇬🇧
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRL_bkG-R2ct2rVyPuWd-UT4
+http://tkosportz.live:25461/edaniels2023/6066225419/7668
  
 #EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lqpE3XV6yc9Yg7HTb9ijFQ2ZlHX5cDMYdJXy-gFB3EaeU=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Golf/Fight", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
