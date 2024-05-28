@@ -132,7 +132,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
  
-#EXTINF:-1 group-title="BSTV | Entertainment" tvg-id="BSTV | Entertainment.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWS08NE0KOwFa3OxOSWL69HepIXuTEEpwzg&usqp=CAU",BSTV | Entertainment
+#EXTINF:-1 group-title="BSTV | Entertainment" tvg-id="Entertainment.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWS08NE0KOwFa3OxOSWL69HepIXuTEEpwzg&usqp=CAU",Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -172,7 +172,7 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
  
-#EXTINF:0 tvg-id="HitsMovies.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJB8FbgSaxkfI6I0HqFaGCzS8B4rETCY5ALA&usqp=CAU" group-title="BSTV | Entertainment",HITS BSTV | Movies
+#EXTINF:0 tvg-id="HitsMovies.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJB8FbgSaxkfI6I0HqFaGCzS8B4rETCY5ALA&usqp=CAU" group-title="BSTV | Entertainment",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -205,13 +205,13 @@ https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
-#EXTINF:-1 tvg-id="Rock BSTV | Entertainment - [Channel 240].id" tvg-name="ROCK BSTV | Entertainment" tvg-logo="https://assets-global.website-files.com/64e961c3862892bff815289d/64f5a39289fc94d2ac08ede7_icon-ROCK-Ent.jpg" group-title="BSTV | Entertainment", ROCK BSTV | Entertainment 🇸🇬
+#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-name="ROCK Entertainment" tvg-logo="https://assets-global.website-files.com/64e961c3862892bff815289d/64f5a39289fc94d2ac08ede7_icon-ROCK-Ent.jpg" group-title="BSTV | Entertainment", ROCK Entertainment 🇸🇬
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
  
-#EXTINF:-1 group-title="BSTV | Entertainment" tvg-id="musictv.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812",BSTV | Music TV
+#EXTINF:-1 group-title="BSTV | Entertainment" tvg-id="musictv.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -442,9 +442,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/800px-Natgeo_Kids_logo.svg.png" group-title="BSTV | Knowledge", NATGEO BSTV | Kids ON YT 🇺🇸
-https://ythls-v2.onrender.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg.m3u8
- 
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg" group-title="BSTV | Knowledge", REAL WILD 🇬🇧
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
  
@@ -506,8 +503,8 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="BSTV | Kids TV - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="BSTV | Kids",BSTV | Kids TV
-https://testfunctionlive.mncnow.id/live/eds/BSTV | Kids-HD/sa_dash_vmx/BSTV | Kids-HD.mpd
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="BSTV | Kids",Kids TV
+https://testfunctionlive.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -537,7 +534,7 @@ https://testfunctionlive.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="BSTV | Kids",MyKids
-https://testfunctionlive.mncnow.id/live/eds/My-BSTV | Kids/sa_dash_vmx/My-BSTV | Kids.mpd
+https://testfunctionlive.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -548,19 +545,19 @@ https://testfunctionlive.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-H
 #EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://yt3.googleusercontent.com/1cyrOm4Y6f959LIjhE2Zwqp77Lts6P_nCBCv0uRsMWTd-JYYY7TBXztNM52G7pJYzk-8g3AS9Nc=s900-c-k-c0x00ffffff-no-rj" tvg-chno="3170" group-title="BSTV | Kids" , Baby Shark TV 🇰🇷
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="BSTV | Kids", B BSTV | Kids 🇮🇩
-http://livestream.biznetvideo.net/biznet_kids/smil:BSTV | Kids.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="BSTV | Kids", B Kids 🇮🇩
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://images.gmanews.tv/webpics/2022/10/cartoon_network_2_2022_10_18_15_56_46.jpg" group-title="BSTV | Kids", CARTOON NETWORK 🇺🇸 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
  
-#EXTINF:-1 tvg-id="CINEMACHI BSTV | Kids HD - [Channel 403].id" tvg-name="CINEMACHI BSTV | Kids" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-BSTV | Kids.png" group-title="BSTV | Kids", CINEMACHI BSTV | Kids 🇬🇧
+#EXTINF:-1 tvg-id="CINEMACHI Kids HD - [Channel 403].id" tvg-name="CINEMACHI Kids" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-Kids.png" group-title="BSTV | Kids", CINEMACHI Kids 🇬🇧
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-BSTV | Kids-HD/sa_dash_vmx/Cinemachi-BSTV | Kids-HD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
  
 #EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="BSTV | Kids" , HOREE! 🔴 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -639,13 +636,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="BSTV | Movies",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
  
-#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://hometv.pw/logo/BSTV | Movies/galaxy.png" group-title="BSTV | Movies", GALAXY 
+#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://hometv.pw/logo/Movies/galaxy.png" group-title="BSTV | Movies", GALAXY 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
  
-#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://hometv.pw/logo/BSTV | Movies/galaxy_premium.png" group-title="BSTV | Movies", GALAXY PREMIUM 
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://hometv.pw/logo/Movies/galaxy_premium.png" group-title="BSTV | Movies", GALAXY PREMIUM 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -684,7 +681,7 @@ https://testfunctionlive.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Celestial BSTV | Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="BSTV | Movies",Celestial BSTV | Movies
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="BSTV | Movies",Celestial Movies
 https://testfunctionlive.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -693,7 +690,7 @@ https://testfunctionlive.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestial
 #EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="BSTV | Movies",Celestial Classic
 https://testfunctionlive.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
  
-#EXTINF:0 tvg-id="tvNMovies.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtOxhxvCGUaTfobRRh9J-EXGQ-QB1IGwYmg&usqp=CAU" group-title="BSTV | Movies",tvN BSTV | Movies
+#EXTINF:0 tvg-id="tvNMovies.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtOxhxvCGUaTfobRRh9J-EXGQ-QB1IGwYmg&usqp=CAU" group-title="BSTV | Movies",tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -914,10 +911,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a067e7c65ff60007b408
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="BSTV | Music", MTV RockZone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cdb15d931000073ee4ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="BSTV | Music", MTV Love BSTV | Music
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="BSTV | Music", MTV Love Music
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61923ac16d03190008138a67/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 group-title="BSTV | Music" tvg-id="musictv.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812",BSTV | Music TV
+#EXTINF:-1 group-title="BSTV | Music" tvg-id="musictv.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -974,7 +971,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964eb
 #EXTINF:-1   tvg-logo="https://kamalbeatmaker.com/wp-content/uploads/2017/08/creat-your-own-vevo-channel-600x293.png" group-title="BSTV | Music", Vevo Country
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://www.cableman.ru/sites/default/files/live_music_channel.jpg" group-title="BSTV | Music", Live BSTV | Music Replay
+#EXTINF:-1   tvg-logo="https://www.cableman.ru/sites/default/files/live_music_channel.jpg" group-title="BSTV | Music", Live Music Replay
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1   tvg-logo="https://yt3.googleusercontent.com/sNMwk_y5__nbN_P-rKSF3AXNVmm_KVje_2gq7ay7w80FEiMoRcap_GdCcFCR4OxsA1QXUBNt4Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Music", Now 70s
@@ -1136,7 +1133,7 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://hometv.pw/logo/BSTV | Sports/soccer_channel.jpg" group-title="BSTV | Sports ID",Soccer Channel-HD
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://hometv.pw/logo/Sports/soccer_channel.jpg" group-title="BSTV | Sports ID",Soccer Channel-HD
 https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1154,7 +1151,7 @@ https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Fight BSTV | Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="BSTV | Sports ID",Fight BSTV | Sports
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="BSTV | Sports ID",Fight Sports
 https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1196,10 +1193,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-046/stream.mpd
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://opsi.id/uploads/gambar-1654768123.jpg" group-title="BSTV | Sports" , FIFA+ 🌏
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
  
-#EXTINF:-1 tvg-id="unifi BSTV | Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="BSTV | Sports", UNIFI BSTV | Sports 🇲🇾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="BSTV | Sports", UNIFI Sports 🇲🇾
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
  
 #EXTINF:-1 group-title="BSTV | Sports" tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png" ,  USA NETWORK FHD
 http://301090394118792939.ofx508.xyz:80/live/ja614554/sgmqJktRbrwc/792939.ts
@@ -1262,22 +1257,8 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-043/stream.mpd
- 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="BSTV | Sports", PREMIER BSTV | Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720-120.mpd
- 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="BSTV | Sports", PREMIER BSTV | Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
-https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720-120.mpd
- 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BSTV | Sports", beIN BSTV | Sports 1 🇮🇩
+  
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BSTV | Sports", beIN Sports 1 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1285,7 +1266,7 @@ https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BSTV | Sports", beIN BSTV | Sports 3 🇮🇩
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BSTV | Sports", beIN Sports 3 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1373,35 +1354,35 @@ https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports1.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT BSTV | Sports 1 🇬🇧
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports1.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT Sports 1 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports2.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT BSTV | Sports 2 🇬🇧
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports2.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT Sports 2 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports3.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT BSTV | Sports 3 🇬🇧
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports3.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT Sports 3 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports4.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT BSTV | Sports 4 🇬🇧
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports4.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT Sports 4 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports5.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT BSTV | Sports 5 🇬🇧
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="TNTSports5.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT Sports 5 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1592,7 +1573,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntieg44B6v2pgKvGBIzpl6zrFBzPUu7z1Lgu348XXmK5k=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Golf/Fight", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
  
-#EXTINF:-1 tvg-id="Fight BSTV | Sports - [Channel 304].id" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/224ApIokTZVaz05OcoEvNuIwn1h9HONmd8_fHioyy5_9f9DO-Af-YRJLQ5fvZiKHf8ruzYUuuQ=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Golf/Fight", FIGHT BSTV | Sports 🇺🇸
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/224ApIokTZVaz05OcoEvNuIwn1h9HONmd8_fHioyy5_9f9DO-Af-YRJLQ5fvZiKHf8ruzYUuuQ=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Golf/Fight", FIGHT Sports 🇺🇸
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1618,7 +1599,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/gallery_img_ml/public/all/2018/01/20180105_WWE_Astro--aff84cb58337890bda85771538984548.jpg" group-title="BSTV | Golf/Fight", ASTRO GO WWE
 http://mytv-extra.com:80/t12mgxyb335/9832948789/192015
  
-#EXTINF:-1 tvg-id="unifi BSTV | Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="BSTV | Golf/Fight", UNIFI BSTV | Sports 🇲🇾
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="BSTV | Golf/Fight", UNIFI Sports 🇲🇾
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
  
  
@@ -1636,25 +1617,25 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
  
  
 ```````` BSTV | Pluto TV ````````
-#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", BSTV | Pluto TV History
+#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV History
 https://i.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
  
-#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", BSTV | Pluto TV Science
+#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Science
 https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
  
-#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", BSTV | Pluto TV Adventure
+#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Adventure
 https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
  
-#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", BSTV | Pluto TV Space
+#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Space
 https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Nick BSTV | Pluto TV
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Nick Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Nick Jr. BSTV | Pluto TV
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Nick Jr. Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", BSTV | Pluto TV BSTV | Kids
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", Pluto TV BSTV | Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",LEGO BSTV | Kids Channel
@@ -1675,22 +1656,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c100093709
 #EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",BSTV | Pluto TV Anime All Day
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",BSTV | Pluto TV Anime All Ages
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Pluto TV Anime All Ages
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
  
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",BSTV | Pluto TV E-BSTV | Sports
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", BSTV | Pluto TV BSTV | Music
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", Pluto TV Music
 https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
  
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", BSTV | Pluto TV K-Pop
+#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV", Pluto TV K-Pop
 https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
  
-#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", BSTV | Pluto TV BSTV | Sports
+#EXTINF:-1 group-title="BSTV | Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="BSTV | Pluto TV",Bellator MMA
