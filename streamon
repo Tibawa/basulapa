@@ -1287,28 +1287,28 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAUPXsPa1DKoM94s_oMH-W
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAwMvSOgXg7qj24VUvEp2v0
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 1 HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115751
+https://raw.githubusercontent.com/Tibawa/basulapa/main/SONY1.m3u8
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 2 HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115753
+https://raw.githubusercontent.com/Tibawa/basulapa/main/SONY2.m3u8
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 3 HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115755
+https://raw.githubusercontent.com/Tibawa/basulapa/main/SONY3.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="BSTV | Sports", ARENA SPORT 1
-https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/upsspx1433379567.png" group-title="BSTV | Sports",TSN 1
+https://raw.githubusercontent.com/Tibawa/basulapa/main/TSN1.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png" group-title="BSTV | Sports", ARENA SPORT 2
-https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR2.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sutruq1433379787.png" group-title="BSTV | Sports",TSN 2
+https://raw.githubusercontent.com/Tibawa/basulapa/main/TSN2.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png" group-title="BSTV | Sports", ARENA SPORT 3
-https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR3.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ssxtux1433380256.png" group-title="BSTV | Sports",TSN 3
+https://raw.githubusercontent.com/Tibawa/basulapa/main/TSN3.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png" group-title="BSTV | Sports", ARENA SPORT 4
-https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR4.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yrrvpq1433380019.png" group-title="BSTV | Sports",TSN 4
+https://raw.githubusercontent.com/Tibawa/basulapa/main/TSN4.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png" group-title="BSTV | Sports", ARENA SPORT 5
-https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR5.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sytpty1433380112.png" group-title="BSTV | Sports",TSN 5
+https://raw.githubusercontent.com/Tibawa/basulapa/main/TSN5.m3u8
  
 #EXTINF:-1 tvg-id="Eurosport1HD.uk" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="BSTV | Sports", EUROSPORT 1 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1389,55 +1389,45 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
  
-#EXTINF:-1 tvg-id="ELEVEN BSTV | Sports 1.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1711368456000&quality=70" group-title="BSTV | Sports" , DAZN ELEVEN 1 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175980613953_image-header_pRow_1687943626000&quality=70" group-title="BSTV | Sports",DAZN ELEVEN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
  
-#EXTINF:-1 tvg-id="ELEVEN BSTV | Sports 2.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1711368456000&quality=70" group-title="BSTV | Sports" , DAZN ELEVEN 2 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1711368456000&quality=70" group-title="BSTV | Sports",DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
  
-#EXTINF:-1 tvg-id="ELEVEN BSTV | Sports 3.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1711368456000" group-title="BSTV | Sports" , DAZN ELEVEN 3 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1711368456000" group-title="BSTV | Sports",DAZN ELEVEN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
  
-#EXTINF:-1 tvg-id="ELEVEN BSTV | Sports 4.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1711368457000" group-title="BSTV | Sports" , DAZN ELEVEN 4 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1711368457000" group-title="BSTV | Sports",DAZN ELEVEN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
  
-#EXTINF:-1 tvg-id="ELEVEN BSTV | Sports 5.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1711368457000&quality=70" group-title="BSTV | Sports" , DAZN ELEVEN 5 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1711368457000&quality=70" group-title="BSTV | Sports",DAZN ELEVEN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
  
 #EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR169:RMC SPORT 1" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="BSTV | Sports",RMC SPORT 1
-http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28134
+https://raw.githubusercontent.com/Tibawa/basulapa/main/RMC1.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR170:RMC SPORT 2" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="BSTV | Sports",RMC SPORT 2
-http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28133
+https://raw.githubusercontent.com/Tibawa/basulapa/main/RMC2.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR171:RMC SPORT 3" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="BSTV | Sports",RMC SPORT 3
-http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28132
+https://raw.githubusercontent.com/Tibawa/basulapa/main/RMC3.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR172:RMC SPORT 4" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="BSTV | Sports",RMC SPORT 4
-http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28131
+https://raw.githubusercontent.com/Tibawa/basulapa/main/RMC4.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR173:RMC SPORT 5" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="BSTV | Sports",RMC SPORT 5
-http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28130
+https://raw.githubusercontent.com/Tibawa/basulapa/main/RMC5.m3u8
  
  
  
