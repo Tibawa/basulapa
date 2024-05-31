@@ -927,8 +927,14 @@ https://testfunctionlive.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-A
 #EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="BSTV | Movies",My Family
 https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg" group-title="BSTV | Movies",BOO
-http://abcnew.site:8880/3ca7043n02/dsf23e423/1697
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg" group-title="BSTV | Movies", Boo
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
  
 #EXTINF:-1 tvg-id="SkyCinemaSciFiHorrorHD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-SCIFI-HORROR-June-2020.png" group-title="BSTV | Movies", SKY CINEMA SCIFI-HORROR 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1262,7 +1268,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
 ```````` BSTV | Sports ID ````````
 #EXTINF:-1 group-title="BSTV | Sports ID" group-logo="https://i.postimg.cc/3w89xkfL/20240210-162216.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI 
-https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
+#https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1432,17 +1438,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRF9NW6y3LHJg0bvRMSI8PJg
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASSP 1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRNKcHPZsV2XFuO_GI63XpIY
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",ASSP 2
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAUPXsPa1DKoM94s_oMH-W0
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASSP 3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAwMvSOgXg7qj24VUvEp2v0
+#EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASSP 4
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="SSC 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
