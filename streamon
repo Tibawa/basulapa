@@ -1308,8 +1308,9 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
  
 ```````` BSTV | Sports ID ````````
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3w89xkfL/20240210-162216.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="BSTV | Sports ID", Moji
-http://45.12.2.240:8080/b7c2ba83/b65f5b29/298550
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="BSTV | Sports ID", Moji
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+http://xtv.ooo:8080/live/miqbal/989796/350997.m3u8
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
