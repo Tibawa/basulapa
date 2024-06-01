@@ -1308,10 +1308,10 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
  
 ```````` BSTV | Sports ID ````````
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="BSTV | Sports ID", Moji
-#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
-http://45.12.2.240:8080/b7c2ba83/b65f5b29/298550
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="BSTV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1439,12 +1439,10 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
  
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1weziux6zy5mb16pev002ax1yu_image-header_pEs_1688456206000" group-title="BSTV | Sports" , DAZN LaLiga 🇪🇸
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="BSTV | Sports" , DAZN LaLiga 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-043/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
   
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BSTV | Sports", beIN Sports 1 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -1588,6 +1586,15 @@ http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28131
  
 #EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR173:RMC SPORT 5" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="BSTV | Sports",RMC SPORT 5
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28130
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:1E:1B:02&stream=156017&extension=ts&play_token=Lryv6v9DAS
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 2
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:1E:1B:02&stream=156010&extension=ts&play_token=nQ2NP4wtlx
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 3
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:1E:1B:02&stream=156024&extension=ts&play_token=rsNW3FcZky
  
 
  
