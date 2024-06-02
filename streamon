@@ -1588,13 +1588,19 @@ http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28131
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28130
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 1
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:1E:1B:02&stream=156017&extension=ts&play_token=Lryv6v9DAS
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115751
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 2
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:1E:1B:02&stream=156010&extension=ts&play_token=nQ2NP4wtlx
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115753
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 3
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:1E:1B:02&stream=156024&extension=ts&play_token=rsNW3FcZky
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115755
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="BSTV | Sports",EuroSport 1
+http://fortv.cc:8080/bfKAm59/xC4vzDQ/53713
+
+#EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="https://media.info/i/lf/0/1447433758/1150.png" group-title="BSTV | Sports",Eurosport 2
+http://vo01.mohdtv.com:8880/ALLChannels18742e81ddf4/46972742/31516
  
 
  
