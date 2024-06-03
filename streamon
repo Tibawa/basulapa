@@ -644,41 +644,15 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/livestream-poster.png" group-title="BSTV | Knowledge", NASA 🇺🇸
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
  
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="BSTV | Knowledge", NATGEO 🇺🇸
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="BSTV | Knowledge",NATGEO
+http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
  
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg" group-title="BSTV | Knowledge", REAL WILD 🇬🇧
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
  
 #EXTINF:-1 channel-id="samsung-USBA3000043LH" tvg-id="USBA3000043LH" tvg-logo="https://images.samsung.com/is/image/samsung/assets/global/mkt/explore/global/photography/wildlife-watch/article-hero_WLW_mo.jpg?$720_N_JPG$" tvg-chno="1400" group-title="BSTV | Knowledge" , Samsung Wild Life 🇬🇧
 https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
- 
-#EXTINF:-1 tvg-id="SkyCrimeHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/2560px-Sky_Crime_DE_Logo_2021.svg.png" group-title="BSTV | Knowledge", SKY CRIME 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00035075b9471324ef3ef367f4e2f3e2:9623d9591c52f58bf18c0177ec58dc0b
-https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycrime)/manifest_720.mpd
- 
-#EXTINF:-1 tvg-id="SkyDocumentariesHD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/05/Sky-Docs-for-website.png" group-title="BSTV | Knowledge", SKY DOCUMENTARIES 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000982cf8912bd8ddf796408697814f1:89c358c16b2f7cff5f32f50cc6cc953b
-http://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skydocumentaries)/manifest_720.mpd
- 
-#EXTINF:-1 tvg-id="SkyNatureHD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/Sky-Nature-250.png" group-title="BSTV | Knowledge", SKY NATURE 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009c883ff32cd7c98dc3d0f877796ad:54c6344af4a6b4f9d7792eae169ab638
-https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skynature)/manifest_720.mpd
- 
-#EXTINF:-1 tvg-id="SmithsonianChannelWest.us" tvg-name="" tvg-logo="https://tavilatam.com/wp-content/uploads/2023/03/TAVI_SmithsonianChannel-TVPaga-lineal.png" group-title="BSTV | Knowledge", SMITHSONIAN 🇺🇸
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc9172c0134d41d4823fa8c7823e97d6:fd0deaf6d1fc06cf3e4e2ce606e5d45d
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/SMTHHD_00192/manifest.mpd
- 
+  
 #EXTINF:-1 group-title="BSTV | Knowledge" tvg-id="Travel Channel HDTV (East)"  tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Travel-Channel-April-2022-Video-Highlights-Thumbnail.jpg", TRVL 🇺🇸
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
  
