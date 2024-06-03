@@ -408,12 +408,6 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
  
-#EXTINF:-1 tvg-id="Maxstream" tvg-name="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg" group-title="BSTV | Entertainment", MAXSTREAM
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
- 
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-name="ROCK Entertainment" tvg-logo="https://assets-global.website-files.com/64e961c3862892bff815289d/64f5a39289fc94d2ac08ede7_icon-ROCK-Ent.jpg" group-title="BSTV | Entertainment", ROCK Entertainment 🇸🇬
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -951,11 +945,11 @@ https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
  
-#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png" group-title="BSTV | Movies",CITRA BIOSKOP 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Maxstream" tvg-name="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg" group-title="BSTV | Movies", MAXSTREAM
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
-https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 1 
 http://xtv.ooo:8080/924237077A/924237077A/350941
