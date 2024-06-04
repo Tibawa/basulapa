@@ -848,13 +848,13 @@ https://testfunctionlive.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="BSTV | Movies",Celestial Movies
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://yt3.googleusercontent.com/60mGAdiNua0n_ul2OenJmhe-FF47x2tRcaQfQt08D5UIAEDOxmXwHRTaL6Ca2a64LY6F7PbBbDk=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Movies",Celestial Movies
 https://testfunctionlive.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="BSTV | Movies",Celestial Classic
+#EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/maxresdefault.jpg" group-title="BSTV | Movies",Celestial Classic
 https://testfunctionlive.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
  
 #EXTINF:0 tvg-id="tvNMovies.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtOxhxvCGUaTfobRRh9J-EXGQ-QB1IGwYmg&usqp=CAU" group-title="BSTV | Movies",tvN Movies
@@ -883,10 +883,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 #EXTINF:0 tvg-name="Citra Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="BSTV | Movies",Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
  
-#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="BSTV | Movies" group-logo="https://akcdn.detik.net.id/visual/2023/11/09/cubmu-dari-transvision_169.png" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+#EXTINF:-1 group-title="BSTV | Movies"  tvg-logo="https://akcdn.detik.net.id/visual/2023/11/09/cubmu-dari-transvision_169.png", BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
  
 #EXTINF:-1 xui-id="75" tvg-id="" tvg-name="Warner TV" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="BSTV | Movies",Warner TV
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREgINWVzorVPNLsPeyK6sf4
@@ -1275,11 +1275,10 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
  
 ```````` BSTV | Sports ID ````````
-#EXTINF:-1 tvg-id="Lokal" group-title="BSTV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" ch-number="92", MOJI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzA2ODIxMzUiLCJyZWZyZXNoX3Rva2VuIjoiMDgyaUhHMnozQlwvMG90eGNKZ0V1a0QraU9oXC9cL00xYkdHQThPTG42ZlVUM2NcL0xKR0YwXC94N3owUUdwOFhOZkY2M3E5K2k1cTZTRDVrM2Rhb1I0MHFFXC85S1VrZnZOd05TQ0JBNE5cL05VVWJqUHJiMGN0aG50YWxUXC9VN3hGTUk0Um1YaFpiRTZ2ekdqdHpheXIrOXk2bzlcLzI1RmxRQWJFTGhrWGN1RWNpSGdxWFhnbk5ub0pyVUhQQ1wvWFpQektxbnNyNFdENDdkMWtiUm1lK1BBVE1pZVBUSGVNdCtqKzROS3FHbDVRcGNTeUpQajFNYjRHUkxLMXVpNVpKT3hSMmF4aHJnbURJRzZva0FVXC93WEFHQk9zNXFabnRWekwxV09FSzdBU3VSOVNPdisxXC9kZENrWGpvRDFBMjR3T0g5c0EifQ==
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDgzOTE0MjciLCJyZWZyZXNoX3Rva2VuIjoiWXFjSkpzVmcwQzRKMHBKZ3NaTXh1bVlNU2VXRE1cL2xhZVVmR0gzaXhsQVgyd1lYNFk4TExtMTh1ZnZYMW5cL2ltMFRwckVLQUFGWExHdW8zdWRHNDByMTNTdlwvMENZdHVTVUpWRytPV1N2MzBLeHVcL1I0V2dTN3VBUmFCVEdsSnBiY2VHdFlyOHZuT1FWNEJ0V1dic0o2N0IxWDc5UExFblZvZVZjVGV3T1VrTUJFMGFndmQ2d0dCQnJabk82Q3RYV1YzZnJlWUFHV2tCOGtEYVpLTUtjdVE0VHlYSTRkTnpETU9BRUdFNXVzT0NzNnFMOHNneGFQa1NDUkZsK2U1Z0FlQkNUWmxhRnY2ZlZNRkFTQlpnSVdtMlFudE9SSGVKaERcL05KZm0wb0prTWFQd2k2QTdSQUNFeHlFRW55bTFBdHFTR01OaHVwcVdJXC9Va1RES3ZnY1VxbHFGREMybnJidFdTQVZVSXIxbjVZPSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="BSTV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
