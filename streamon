@@ -1506,35 +1506,35 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports" , DAZN ELEVEN 1 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
  
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports" , DAZN ELEVEN 2 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd  
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
  
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports" , DAZN ELEVEN 3 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd  
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
  
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports" , DAZN ELEVEN 4 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd  
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
  
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports" , DAZN ELEVEN 5 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
