@@ -1372,16 +1372,16 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 http://301090394118792939.ofx508.xyz:80/live/ja614554/sgmqJktRbrwc/792939.ts
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 1 
-http://xtv.ooo:8080/924237077A/924237077A/222563
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein1t.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 2 
-http://xtv.ooo:8080/924237077A/924237077A/222568
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein2t.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 3 
-http://xtv.ooo:8080/924237077A/924237077A/222573
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein3t.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 4 
-http://xtv.ooo:8080/924237077A/924237077A/222578
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein4t.m3u8
 
 #EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000" group-title="BSTV | Sports" , DAZN COMBAT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
