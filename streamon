@@ -1371,7 +1371,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="BSTV | Sports" tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png" ,  USA NETWORK FHD
 http://301090394118792939.ofx508.xyz:80/live/ja614554/sgmqJktRbrwc/792939.ts
 
-#EXTINF:-1 group-title="BSTV | Sports" tvg-id="beinsports1thailand.th" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",beIN Ais 1
+#EXTINF:-1 tvg-id="beinsports1thailand.th" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="BSTV | Sports", beIN Ais 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey
