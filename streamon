@@ -888,8 +888,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
  
-#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="Warner TV" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="BSTV | Movies",Warner TV
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREgINWVzorVPNLsPeyK6sf4
+#EXTINF:-1 tvg-id="" tvg-name="Warner (508)" tvg-logo="https://yt3.googleusercontent.com/PveST7pRORWtjFsDh4_5hZmsRbS24H3LHZFJtsJS0vOJvz_qVc8WMlvZ1BayZ-loUo-9RgcA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Movies",Warner TV
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/156
  
 #EXTINF:0 tvg-id="IMC.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLG--iJaseh71v3IXL8SmwiXRyUSyIho3wg&usqp=CAU" group-title="BSTV | Movies",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
