@@ -220,9 +220,12 @@ https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
  
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://yt3.googleusercontent.com/aMK2yb18_LeSiad17f9E91m8HH-H6nEeZkZoqASuJ04zkS1Ok6oEjcKiErX1wgTulSASsS8a=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | TV Nasional",INEWS
-#EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
-https://tv.burhansyam.com/api/plus.m3u8?ch=4&t=666
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aMK2yb18_LeSiad17f9E91m8HH-H6nEeZkZoqASuJ04zkS1Ok6oEjcKiErX1wgTulSASsS8a=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | TV Nasional",iNEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
  
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://yt3.googleusercontent.com/qUxrgwLU7Bn52aRap6MmAuy-c0N_E8_SexAiHGAwsYf0AlAbLRDsGuhe4oz-QVjv9068Slgb=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | TV Nasional",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
