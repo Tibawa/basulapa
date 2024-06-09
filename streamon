@@ -1605,7 +1605,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
  
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2024/02/tfki7njrm3y8jycbtkrx.jpeg" group-title="BSTV | NBA/NFL/MLB", NFL NETWORK 🇺🇸
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1613,7 +1613,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="BSTV | NBA/NFL/MLB", MLB 🇺🇸
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1632,11 +1632,10 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd
  
 ```````` BSTV | F1/MotoGP ````````
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gl9uoz1660314819.png" group-title="BSTV | F1/MotoGP" , DAZN F1 🇪🇸
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
  
 #EXTINF:-1 xui-id="13356" tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | F1/MotoGP",Sky Sports F1
 http://tkosportz.live:25461/edaniels2023/6066225419/7667
@@ -1664,15 +1663,8 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56602&ext
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
  
 #EXTINF:-1 xui-id="14631" tvg-id="" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://yt3.googleusercontent.com/fk9oXLAKdapE3ZwPClZF0nKR2WDAJMq4cCli7oj71ibZxtBapZtNkbuyaYfAsgucR9LDdolm=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Tennis/Cricket",Sky Sports Tennis 🇬🇧
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHlAXeNCcp7H2Ex4qdJSjPc
- 
-#EXTINF:-1 tvg-id="Ziggo Sport Tennis" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="BSTV | Tennis/Cricket",  ZIGGO SPORT TENNIS 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd
- 
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29070
+  
 #EXTINF:-1 tvg-id="ss.tennis.za" tvg-name="ZA065:SuperSport Tennis" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="BSTV | Tennis/Cricket",SuperSport Tennis
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/60572
  
