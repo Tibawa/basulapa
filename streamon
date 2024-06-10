@@ -1357,34 +1357,30 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
- 
-#EXTINF:-1 tvg-id="Canal+ Ligue 1.fr" tvg-logo="https://www.sportsmarketing.fr/wp-content/uploads/2021/02/canal-ligue-1.jpg" group-title="BSTV | Sports" , DAZN CANAL+ LIGUE 1 🇫🇷
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-046/stream.mpd
- 
+  
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://opsi.id/uploads/gambar-1654768123.jpg" group-title="BSTV | Sports" , FIFA+ 🌏
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
  
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="BSTV | Sports", UNIFI Sports 🇲🇾
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
  
-#EXTINF:-1 group-title="BSTV | Sports" tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png" ,  USA NETWORK FHD
-http://301090394118792939.ofx508.xyz:80/live/ja614554/sgmqJktRbrwc/792939.ts
+#EXTINF:-1 tvg-id="US: FOX Sports 1" tvg-name="US: FOX Sports 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",FOX Sports 1 US
+http://dns.hibrido.club:8080/sourceuxusaX2/bRsCaNup9Cb3/10839
+
+#EXTINF:-1 tvg-id="fs2.us" tvg-name="US: FOX Sports 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",FOX Sports 2 US
+http://dns.hibrido.club:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 1 
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein1t.m3u8
+https://bit.ly/3QyIV0d
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 2 
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein2t.m3u8
+https://bit.ly/3UmI3gi
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 3 
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein3t.m3u8
+https://bit.ly/3QyIZgt
 
 #EXTINF:-1 tvg-id="beINSports4.qa" group-title="BSTV | Sports" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 4 
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/bein4t.m3u8
+https://bit.ly/3wwqFO9
 
 #EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000" group-title="BSTV | Sports" , DAZN COMBAT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
