@@ -496,15 +496,6 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://images.indihometv.com/tvposter/cnn.png" group-title="BSTV | News", CNN INDONESIA 🇮🇩
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
- 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/mobile/images/tentang_kami.jpg?v=6.2.1" group-title="BSTV | News", CNBC INDONESIA 🇮🇩
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
- 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/640px-BTV_%28Indonesia%29_logo.svg.png" group-title="BSTV | News", BTV 🇮🇩
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png" group-title="BSTV | News", GARUDA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
