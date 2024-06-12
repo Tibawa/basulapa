@@ -907,9 +907,6 @@ https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
  
-#EXTINF:-1 channel-id="samsung-FRBB4600002K5" tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20220323T080533SQUARE.png_20220323080535.png" tvg-chno="4966" group-title="BSTV | Movies" , Scream'IN
-https://i.mjh.nz/SamsungTVPlus/FRBB4600002K5.m3u8
- 
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-name="ROCK ACTION" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/10/10105014/Rock-Action_image-thumb-1024x576.jpg" group-title="BSTV | Movies", ROCK ACTION 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
