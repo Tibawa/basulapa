@@ -1265,13 +1265,13 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
  
 ```````` UEFA EURO 2024 ````````
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 1
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 1
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro1.m3u8
 
-#EXTINF:0 tvg-name="PT | SPORT TV 1 | UHD" tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 2
+#EXTINF:0 tvg-name="PT | SPORT TV 1 | UHD" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 2
 http://kstv.us:8080/live/tH300gvHff/8606073792/48496.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 3
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 3
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro3.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1279,7 +1279,7 @@ https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro3.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 4
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 4
 https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1287,14 +1287,17 @@ https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 5
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 5
 https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3338_&extension=ts
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="UEFA EURO 2024" tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q", EURO24 - 6
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="UEFA EURO 2024" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 7
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro5.m3u8
 
  
  
