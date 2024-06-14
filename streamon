@@ -1269,7 +1269,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 2
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro2.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/48496.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KP5nla17Jrc/hq720_live.jpg?sqp=CLzNrLMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU9karn_3Riq54jhx7WWOieIiZ_Q" group-title="UEFA EURO 2024", EURO24 - 3
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro3.m3u8
