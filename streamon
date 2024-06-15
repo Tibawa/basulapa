@@ -1280,11 +1280,10 @@ https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 5
-#EXTGRP: UEFA EURO 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+#EXTINF:-1 tvg-id="75395651" tvg-name="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95abe856f5c148b2974f5fb28a74b2e2:be434af7b0e977df382c97a375c47291
+https://cdnlb.tvplayhome.lt/live/eds/TV3_EE_HD_HVC/GO3_LIVE_DASH_AVC/TV3_EE_HD_HVC.mpd
 
  
  
